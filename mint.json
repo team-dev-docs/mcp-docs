@@ -77,6 +77,23 @@
       ]
     },
     {
+      "group": "Servers",
+      "pages": [
+        "docs/getting_started_with_mcp_servers",
+        "docs/mcp_server_best_practices",
+        "docs/mcp_server_configuration",
+        "docs/github_integration_guide",
+        "docs/gitlab_integration_guide",
+        "docs/brave_search_api_guide",
+        "docs/time_operations_with_mcp",
+        "docs/sqlite_mcp_server_tutorial",
+        "docs/puppeteer_automation_with_mcp",
+        "docs/postgres_mcp_server_usage",
+        "docs/time_operations_with_mcp",
+        "docs/troubleshooting_mcp_servers"
+      ]
+    },
+    {
       "group": "Development",
       "pages": ["development/roadmap", "development/contributing"]
     }
